@@ -5,7 +5,7 @@
 
 #odisha_geography
 
-![Screenshot 2024-07-13 at 5.35.34 PM.png](/img/user/ODISHA/Images/Physiography%20of%20Odisha%20(Images)/Screenshot%202024-07-13%20at%205.35.34%20PM.png)
+![Odisha Phsyical 1.png](/img/user/ODISHA/Images/Physiography%20of%20Odisha%20(Images)/Odisha%20Phsyical%201.png)
 
 
 ---
@@ -207,7 +207,7 @@ Odisha can be divided into **three** broad regions.
 
 ---
 
-![](/img/user/ODISHA/Images/Physiography of Odisha (Images)/Screenshot 2024-07-13 at 5.26.26 PM.png)
+![](/img/user/ODISHA/Images/Physiography of Odisha (Images)/The Important peaks of odisha.png)
 ## 3. Plateaus and Rolling Uplands
 
 * elevation of 300-600 metres
@@ -254,4 +254,4 @@ Odisha can be divided into **three** broad regions.
 ---
 
 
-![](/img/user/ODISHA/Images/Physiography of Odisha (Images)/image.png)
+![](/img/user/ODISHA/Images/Physiography of Odisha (Images)/Odisha physical 2.png)
