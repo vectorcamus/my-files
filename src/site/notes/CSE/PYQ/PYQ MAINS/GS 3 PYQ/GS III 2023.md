@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cse/pyq/pyq-mains/gs-3-pyq/gs-iii-2023/","dgShowFileTree":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/cse/pyq/pyq-mains/gs-3-pyq/gs-iii-2023/"}
 ---
 
 
