@@ -204,6 +204,7 @@ Odisha can be divided into **three** broad regions.
 * Turiakonda (1,598 metres).
 * The original trend of the Eastern Ghats is still preserved in this section, since it runs in a NE to SW direction.
 * mountains completely separate the Nagavali and the Sabari basins.
+
 ![](/img/user/ODISHA/Images/Physiography of Odisha (Images)/Screenshot 2024-07-13 at 5.26.26 PM.png)
 ## 3. Plateaus and Rolling Uplands
 
@@ -247,5 +248,6 @@ Odisha can be divided into **three** broad regions.
 * The Valley of the Mahanadi 
 * The Valley of the Brahmani 
 * The Valley of the Vamsadhara 
+
 
 ![](/img/user/ODISHA/Images/Physiography of Odisha (Images)/image.png)
