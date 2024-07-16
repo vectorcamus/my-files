@@ -207,7 +207,7 @@ Odisha can be divided into **three** broad regions.
 
 ---
 
-![Screenshot 2024-07-13 at 5.26.26 PM.png](/img/user/Screenshot%202024-07-13%20at%205.26.26%20PM.png)
+![Screenshot 2024-07-13 at 5.26.26 PM.png](/img/user/ODISHA/Images/Physiography%20of%20Odisha%20(Images)/Screenshot%202024-07-13%20at%205.26.26%20PM.png)
 
 ## 3. Plateaus and Rolling Uplands
 
@@ -255,4 +255,4 @@ Odisha can be divided into **three** broad regions.
 ---
 
 
-![](/img/user/ODISHA/Images/Physiography of Odisha (Images)/Odisha physical 2.png)
+![image.png](/img/user/image.png)
