@@ -290,7 +290,9 @@ It drains into the Bay of Bengal at Icchapur marsh in Andhra Pradesh.
 
 * eastern slopes of the Eastern Ghats at Taptapani in Ganjam district.
 
+
 ![Screenshot 2024-07-13 at 5.30.54 PM.png](/img/user/Screenshot%202024-07-13%20at%205.30.54%20PM.png)
+
 
 ## Summary 
 | River                            | Origin                                                        | Distance                   | Tributaries                                                                                                                                            | Area                                                                                             |
