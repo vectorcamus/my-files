@@ -195,7 +195,7 @@ The river, after flowing for 140 km does not directly drain into the Bay of Beng
 
 * into the Bay of Bengal near Ganjam town.
 
-![Screenshot 2024-07-13 at 5.23.58 PM.png](/img/user/Screenshot%202024-07-13%20at%205.23.58%20PM.png)
+![Screenshot 2024-07-13 at 5.23.58 PM 1.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.23.58%20PM%201.png)
 ### Other River Originating from Eastern Ghats
 
 - as they mostly flow in the hilly tracts of the Eastern Ghats, within Orissa for short distances and in Andhra Pradesh for longer distances
@@ -255,13 +255,13 @@ It drains into the Bay of Bengal at Icchapur marsh in Andhra Pradesh.
 * This river is being harnessed to irrigate the parched uplands which traditionally suffer from drought and also to generate hydel power.
 
 
-![Screenshot 2024-07-13 at 5.24.31 PM.png](/img/user/Screenshot%202024-07-13%20at%205.24.31%20PM.png)
+![Screenshot 2024-07-13 at 5.24.31 PM 1.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.24.31%20PM%201.png)
 ## Other Water Bodies
 
 * The most important among the natural lakes are Chilika, Sar, Samagara and Ansupa.
 ![Screenshot 2024-07-13 at 5.24.48 PM.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.24.48%20PM.png)
 
-![Screenshot 2024-07-13 at 5.25.00 PM.png](/img/user/Screenshot%202024-07-13%20at%205.25.00%20PM.png)
+![Screenshot 2024-07-13 at 5.25.00 PM 1.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.25.00%20PM%201.png)
 ### Tidal Rivers
 
 * confined to the lower reaches of the rivers in the Orissa coastal plain. 
@@ -278,7 +278,7 @@ It drains into the Bay of Bengal at Icchapur marsh in Andhra Pradesh.
 
 * of springs are also low compared to the extent of the Eastern Ghats
 
-![Screenshot 2024-07-13 at 5.25.11 PM.png](/img/user/Screenshot%202024-07-13%20at%205.25.11%20PM.png)
+![Screenshot 2024-07-13 at 5.25.11 PM 1.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.25.11%20PM%201.png)
 ![Screenshot 2024-07-13 at 5.25.22 PM.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.25.22%20PM.png)
 ![Screenshot 2024-07-13 at 5.25.39 PM.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.25.39%20PM.png)
 
@@ -291,7 +291,7 @@ It drains into the Bay of Bengal at Icchapur marsh in Andhra Pradesh.
 * eastern slopes of the Eastern Ghats at Taptapani in Ganjam district.
 
 
-![Screenshot 2024-07-13 at 5.30.54 PM.png](/img/user/Screenshot%202024-07-13%20at%205.30.54%20PM.png)
+![Screenshot 2024-07-13 at 5.30.54 PM 1.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.30.54%20PM%201.png)
 
 
 ## Summary 

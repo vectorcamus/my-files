@@ -255,4 +255,4 @@ Odisha can be divided into **three** broad regions.
 ---
 
 
-![image.png](/img/user/image.png)
+![image.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/image.png)
