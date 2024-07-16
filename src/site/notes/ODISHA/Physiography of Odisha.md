@@ -207,8 +207,7 @@ Odisha can be divided into **three** broad regions.
 
 ---
 
-![](/img/user/ODISHA/Images/Physiography of Odisha (Images)/The Important peaks of odisha.png)
-## 3. Plateaus and Rolling Uplands
+![Screenshot 2024-07-13 at 5.26.26 PM.png](/img/user/Screenshot%202024-07-13%20at%205.26.26%20PM.png)3. Plateaus and Rolling Uplands
 
 * elevation of 300-600 metres
 * peninsular tablelands.
