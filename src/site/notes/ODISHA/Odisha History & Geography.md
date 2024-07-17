@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/odisha/odisha-history-and-geography/"}
+{"dg-publish":true,"permalink":"/odisha/odisha-history-and-geography/","dgShowFileTree":true,"dgShowToc":true}
 ---
 
 

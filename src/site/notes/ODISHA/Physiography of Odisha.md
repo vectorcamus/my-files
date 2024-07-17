@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/odisha/physiography-of-odisha/"}
+{"dg-publish":true,"permalink":"/odisha/physiography-of-odisha/","dgShowFileTree":true,"dgShowToc":true}
 ---
 
 

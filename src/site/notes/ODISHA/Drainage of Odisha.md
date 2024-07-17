@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/odisha/drainage-of-odisha/"}
+{"dg-publish":true,"permalink":"/odisha/drainage-of-odisha/","dgShowFileTree":true,"dgShowToc":true}
 ---
 
 
