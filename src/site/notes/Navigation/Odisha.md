@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/navigation/odisha/","dgShowFileTree":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/navigation/odisha/"}
 ---
 
 
 **Geography**
 
-[[ODISHA/1. Physiography of Odisha\|1. Physiography of Odisha]]
-[[ODISHA/2.Drainage of Odisha\|2.Drainage of Odisha]]
+[[ODISHA/Physiography of Odisha\|Physiography of Odisha]]
+[[ODISHA/Drainage of Odisha\|Drainage of Odisha]]
 
 

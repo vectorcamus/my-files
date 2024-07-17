@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigation/cse/","dgShowFileTree":true}
+{"dg-publish":true,"permalink":"/navigation/cse/"}
 ---
 
 
