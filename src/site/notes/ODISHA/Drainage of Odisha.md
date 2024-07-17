@@ -26,11 +26,11 @@ All the rivers of Orissa are **primarily peninsular rivers** and have taken thei
 ### The Brahmani
 
 * origin from the southern slopes of the Chota Nagpur Plateau
-* enters Orissa in the Sundergarh district
-* two major tributaries, the Sankh and the Koel
-* Both these meet at Vedavyas near Rourkela and form the main trunk stream of the Brahmani further down.
+* enters Odisha in the Sundergarh district
+* two major tributaries, the **Sankh** and the **Koel**
+* Both these meet at **Vedavyas** near Rourkela and form the main trunk stream of the Brahmani further down.
 * It has a north-south course from Rourkela to Talcher and has formed a gorge at Rengali, south of Barkot, where its water is going to be harnessed for irrigation and hydel power.
-* In the Sankh, the Mandira dam is a detention reservoir, meant for supplying water to the Rourkela Steel Plant and the steel township.
+* In the Sankh, the **Mandira dam** is a detention reservoir, meant for supplying water to the Rourkela Steel Plant and the steel township.
 * From Talcher down- stream, the river has changed its north-south course and has started flowing from north-north-west to south-south-east till Hindol Road.
 * Then it has taken a north-north-east course till Bhuban from where it has started to flow in almost west-east direction to meet the Bay of Bengal at Wheeler Islands and Dharma.
 * a total length of 701 km.
@@ -44,7 +44,7 @@ All the rivers of Orissa are **primarily peninsular rivers** and have taken thei
 
 * has cut right across the Eastern Ghats and formed a minor gorge at Rengali. 
 
-![Screenshot 2024-07-13 at 5.21.41 PM.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.21.41%20PM.png)
+![brahmani tributaries.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/brahmani%20tributaries.png)
 
 ## 2.Rivers from the Amarkantak Plateau 
 
@@ -64,7 +64,7 @@ All the rivers of Orissa are **primarily peninsular rivers** and have taken thei
 
 * From here up to Boudh the Mahanadi has a perfect west-east course while from Boudh till Banki it has a north-west-north to south- east-south course. In this portion, the Mahanadi crosses right through the Eastern Ghats and has formed a gorge at Satkosia where it has cut through the rock strata of the Eastern Ghats.
 
-![Screenshot 2024-07-13 at 5.22.40 PM.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.22.40%20PM.png)
+![mahanadi 3.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/mahanadi%203.png)
 
 ![Screenshot 2024-07-13 at 5.22.51 PM.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.22.51%20PM.png)
 
@@ -102,7 +102,7 @@ All the rivers of Orissa are **primarily peninsular rivers** and have taken thei
 
 * The Nuna rises near the Ghoradiha hills and drains into the Daya near Sahupara. 
 ![](/img/user/ODISHA/Images/Drainage of Odisha(Images)/Screenshot 2024-07-13 at 5.23.26 PM.png)
-![Screenshot 2024-07-13 at 5.23.37 PM.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.23.37%20PM.png)
+![mahanadi 2 continued.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/mahanadi%202%20continued.png)
 
 
 ### Rivers originating from the Kendujhar Plateau 
@@ -225,7 +225,7 @@ It drains into the Bay of Bengal at Icchapur marsh in Andhra Pradesh.
 ### The Nagavali:
 
 * The Nagavali is another inter-State river which has its source in Orissa and flows for a considerable distance in Andhra Pradesh, before draining into the Bay of Bengal south of Srikakulam.
-![Screenshot 2024-07-13 at 5.24.09 PM.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.24.09%20PM.png)
+![nagavali.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/nagavali.png)
 
 * It has its source south of Lanjigarh in old Koraput district.
 
@@ -253,7 +253,7 @@ It drains into the Bay of Bengal at Icchapur marsh in Andhra Pradesh.
 
 * Bangladesh. All these rivers flow in a north-north- east to south-south-west direction and drain the Malkangiri district. 
 
-![Screenshot 2024-07-13 at 5.24.19 PM.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.24.19%20PM.png)
+![kolab sabri.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/kolab%20sabri.png)
 * The Indravati, another tributary of the Godavari, flows in an east-west direction and drains the Nabarangpur uplands. 
 
 * This river is being harnessed to irrigate the parched uplands which traditionally suffer from drought and also to generate hydel power.
@@ -265,7 +265,7 @@ It drains into the Bay of Bengal at Icchapur marsh in Andhra Pradesh.
 ### Lakes
 
 * The most important among the natural lakes are Chilika, Sar, Samagara and Ansupa.
-![Screenshot 2024-07-13 at 5.24.48 PM.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.24.48%20PM.png)
+![artificial reservoirs.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/artificial%20reservoirs.png)
 
 ![Screenshot 2024-07-13 at 5.25.00 PM 1.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.25.00%20PM%201.png)
 * The Chilika Lake is  brackish water lagoon located in the southern part of the Odisha coastal plain. It is India's largest coastal lagoon and spread across the districts of Ganjam, Khurda and Puri. Its area varies 900 km and 1165 km during the two monsoon months it is 71 km long and 32 km wide. Its salinity decreases to a minimum during the monsoon. However, in winter, due to the overflow of the tidal water through the narrow opening from the Bay of Bengal, the lake reaches its maximum height. It is a Ramsar Convention protected wetland and hosts around 33 species of migratory and local birds.
@@ -291,7 +291,7 @@ It drains into the Bay of Bengal at Icchapur marsh in Andhra Pradesh.
 * of springs are also low compared to the extent of the Eastern Ghats
 
 ![Screenshot 2024-07-13 at 5.25.11 PM 1.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.25.11%20PM%201.png)
-![Screenshot 2024-07-13 at 5.25.22 PM.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.25.22%20PM.png)
+![springs in odisha.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/springs%20in%20odisha.png)
 ![Screenshot 2024-07-13 at 5.25.39 PM.png](/img/user/ODISHA/Images/Drainage%20of%20Odisha(Images)/Screenshot%202024-07-13%20at%205.25.39%20PM.png)
 
 ### Hot Springs 

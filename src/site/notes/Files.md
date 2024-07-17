@@ -4,4 +4,4 @@
 
 
 - [[CSE/Home/CSE\|CSE]]
-- [[ODISHA/ODISHA\|ODISHA]]
+- [[ODISHA/Odisha History & Geography\|Odisha History & Geography]]
