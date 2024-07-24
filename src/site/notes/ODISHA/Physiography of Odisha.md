@@ -18,7 +18,7 @@ Odisha can be divided into **three** broad regions.
 ## 1. Coastal Plains
 
 * Subarnarekha in the north-east to the Rushikulya in the south-west.
-* **~6 major river~**
+* **6 major river**
   * **From north to south,** the Subamarekha, the Burhabalanga, the Baitarani, the Brahmani, the Mahanadi and the Rushikulya.
   * **In order of the contribution** of the rivers to the formation of the coastal plains, the rivers may be rearranged as the Mahanadi, the Brahmani, the Baitarani, the Subarnarekh, the Rushikulya and the Burhabalanga.
 * most of the rivers have **~failed to develop true deltaic characteristics~** (as far as shape is concerned) because of the strong offshore current which moves from Chennai to the Andhra coast and passes through the Odisha coast.
@@ -37,17 +37,17 @@ Odisha can be divided into **three** broad regions.
 > 2. ==The arable tract or rice country in the middle==
 > 3. ==The submontane tract to the west.== 
 
-==**The Salt Tract:**==
+**The Salt Tract:*
 
 * 4.8 to 9.6 km inland.
 * impregnated with salt and is completely deprived of agriculture.
 * area difficult to traverse
 * sand ridges which often rise up to 16-26 metres
-  * formed due to the recession of the sea as a result of coastal upliftment.
+	* formed due to the recession of the sea as a result of coastal upliftment.
 * 'Little Sunderbans' off Paradeep- Dhamra coast.
 * In the Devi-Daya sector, Casuarina forests+ plantations
 
-==**The Arable Tract:**==
+**The Arable Tract:**
 
 * grass belt merges into the vast plains where ~**monotony of orography**~ is a special feature
   * Except the old abandoned high ridges of old and **moribund rivers,** no other highlands are encountered 
@@ -55,7 +55,7 @@ Odisha can be divided into **three** broad regions.
 * rivers have formed levees
 * the richest part of the whole of Odisha as far as agriculture is concerned.
 
-==**The Submontane Tract**==
+**The Submontane Tract**
 
 * the meeting zone of the arable tract and the spurs of the Eastern Ghats (***zone of transition***)
 * Hill streams of various sizes have cut deep ravines along the foothills of the Eastern Ghats
@@ -205,7 +205,33 @@ Odisha can be divided into **three** broad regions.
 * The original trend of the Eastern Ghats is still preserved in this section, since it runs in a NE to SW direction.
 * mountains completely separate the Nagavali and the Sabari basins.
 
----
+
+| Name<br>of peak  | District   | Height <br>(Meters) |
+| ---------------- | ---------- | ------------------- |
+| Deomali          | Koraput    | 1672                |
+| Glaikonda        | Koraput    |                     |
+| Sinkaram         | Koraput    |                     |
+| Turiakonda       | Koraput    |                     |
+| Yendrika         | Koraput    |                     |
+| Singaraju        | Ganjam     |                     |
+| Niamgiri         | Koraput    |                     |
+| Mahendragiri     | Gajapati   |                     |
+| Karnapadikonda   | Koraput    |                     |
+| Hattimali        | Koraput    |                     |
+| Devagiri         | Ganjam     |                     |
+| Chandragiri      | Gajapati   |                     |
+| Subarnagiri      | Kandhamal  |                     |
+| Champagharano    | Kandhamal  |                     |
+| Tangri dongar    | Kalahandi  |                     |
+| Murali soru      | Kandhamal  |                     |
+| Baphlimali       | Kalahandi  |                     |
+| Karlapat plateau | Kalahandi  |                     |
+| Malayagiri       | Anugul     |                     |
+| Mogha sani       | Kandhamal  |                     |
+| Doda saru        | Mayurbhanj |                     |
+|                  |            |                     |
+|                  |            |                     |
+
 
 ![Screenshot 2024-07-13 at 5.26.26 PM.png](/img/user/ODISHA/Images/Physiography%20of%20Odisha%20(Images)/Screenshot%202024-07-13%20at%205.26.26%20PM.png)
 

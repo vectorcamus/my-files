@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/cse/pyq/pyq-mains/gs-2-pyq/gs-2-topic-wise/","tags":["Year_sequenced"]}
 ---
 
-
+- [[CSE/PYQ/PYQ MAINS/GS 2 PYQ/Governance Mains TPYQs\|Governance Mains TPYQs]]
+- [[CSE/PYQ/PYQ MAINS/GS 2 PYQ/Indian Polity Mains TPYQs\|Indian Polity Mains TPYQs]]
+- [[CSE/PYQ/PYQ MAINS/GS 2 PYQ/International Relations Mains TPYQs\|International Relations Mains TPYQs]]
+- [[CSE/PYQ/PYQ MAINS/GS 2 PYQ/Social Issues and Justice Mains TPYQs\|Social Issues and Justice Mains TPYQs]]
 
 | **Year** | **Subject** | **Sub-Topic**                                         | **Question**                                                                                                                                                                              | **Marks** |
 | -------- | ----------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
