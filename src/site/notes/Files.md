@@ -28,7 +28,7 @@
 | Paper -I   | [[Syllabus/Economics -I\|Economics -I]]                                                                                   |
 | Paper-II   | [[Syllabus/Economics-II\|Economics-II]]                                                                                   |
 
-
+## PYQ
 ### Prelims Topic Wise
 - [[PYQ/Prelims/Prelims Economics TPYQ\|Prelims Economics TPYQ]]
 - [[PYQ/Prelims/Prelims Ancient History TPYQ\|Prelims Ancient History TPYQ]]
